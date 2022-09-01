@@ -1,1 +1,1 @@
-print effective current user
+hello
