@@ -11,3 +11,4 @@ What is next
 i hate bins
 Letters only
 a to z
+Without C
