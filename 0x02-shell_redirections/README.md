@@ -14,3 +14,4 @@ a to z
 Without C
 reverse
 gif
+Acrostic
