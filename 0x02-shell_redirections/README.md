@@ -9,3 +9,4 @@ That file
 Count that word
 What is next
 i hate bins
+Letters only
