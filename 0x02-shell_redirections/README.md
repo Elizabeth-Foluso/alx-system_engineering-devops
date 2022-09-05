@@ -10,3 +10,4 @@ Count that word
 What is next
 i hate bins
 Letters only
+a to z
