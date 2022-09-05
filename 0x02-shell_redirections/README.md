@@ -1,1 +1,2 @@
 Sheel script
+safe directory
