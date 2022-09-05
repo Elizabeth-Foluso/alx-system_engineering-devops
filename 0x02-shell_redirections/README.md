@@ -13,3 +13,4 @@ Letters only
 a to z
 Without C
 reverse
+gif
