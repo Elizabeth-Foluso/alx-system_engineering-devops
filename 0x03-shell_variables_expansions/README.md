@@ -7,3 +7,4 @@ local variables
 new local variable
 Global Variable
 True knowledge
+Divide and Rule
