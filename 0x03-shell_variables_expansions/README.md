@@ -13,3 +13,4 @@ Binary
 Combination
 float
 decimal to hexadecimal
+Assume ASCII
