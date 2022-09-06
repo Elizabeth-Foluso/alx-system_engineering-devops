@@ -9,3 +9,4 @@ Global Variable
 True knowledge
 Divide and Rule
 Love above all
+Binary
