@@ -5,3 +5,4 @@ Beautiful path
 Global Variables
 local variables
 new local variable
+Global Variable
