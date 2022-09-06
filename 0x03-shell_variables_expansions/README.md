@@ -8,3 +8,4 @@ new local variable
 Global Variable
 True knowledge
 Divide and Rule
+Love above all
