@@ -12,3 +12,4 @@ Love above all
 Binary
 Combination
 float
+decimal to hexadecimal
