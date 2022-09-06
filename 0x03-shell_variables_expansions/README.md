@@ -4,3 +4,4 @@ path to success
 Beautiful path
 Global Variables
 local variables
+new local variable
